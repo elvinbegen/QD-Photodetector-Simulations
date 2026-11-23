@@ -2,7 +2,7 @@
 
 > **Status: planned.** This repository will be filled in as the simulations are done.
 
-**Part of:** FMCW LiDAR with a colloidal-QD photodetector (MSc thesis)
+**Part of:** Optimization of FMCW LiDAR Systems for Autonomous Vehicles Using Quantum Dot Based Photodetectors (MSc thesis)
 **Tools:** Ansys Lumerical FDTD and CHARGE, Python
 
 ## Aim
