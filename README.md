@@ -1,4 +1,4 @@
-# Optimization of FMCW LiDAR Systems for Autonomous Vehicles Using Quantum Dot Based Photodetectors
+# Optical and Electrical Simulation of an Ag₂Te Quantum-Dot Photodetector at 1550 nm
 
 > **Status: planned.** This repository will be filled in as the simulations are done.
 
